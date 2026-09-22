@@ -12,12 +12,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanael1005-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Natanael1005-ai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael1005-ai&layout=compact&theme=tokyonight&langs_count=8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael1005-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
 ## 🛠️ Tecnologias
