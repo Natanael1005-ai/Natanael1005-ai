@@ -6,26 +6,6 @@
 * 🚀 Desenvolvendo projetos e verificando a segurança 
 * 🎯 Sempre aprendendo algo novo na programação
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Natanael1005-ai&show_icons=true&theme=tokyonight"
-  alt="Estatísticas do GitHub"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael1005-ai&layout=compact&theme=tokyonight&langs_count=8"
-  alt="Linguagens mais utilizadas"
-  width="48%"
-/>
-
-</div>
-
 ## 🛠️ Tecnologias
 
 <div align="center">
